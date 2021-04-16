@@ -1,0 +1,5 @@
+*.bak
+__pycache__
+.vscode/*
+pb_tool.cfg
+*.log
